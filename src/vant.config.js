@@ -1,5 +1,5 @@
-import { Button } from 'vant';
-const  vants=[Button]
+import { NumberKeyboard,Toast,Popup ,Icon ,Uploader,Circle,Switch,ShareSheet,Button,Divider ,Dialog  ,Skeleton} from 'vant';
+const  vants=[NumberKeyboard,Toast,Popup,Icon,Uploader ,Circle ,Switch,ShareSheet,Button,Divider,Dialog ,Skeleton ]
 
 export default {
 	install(Vue) {
